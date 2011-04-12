@@ -1,4 +1,4 @@
-#  Processing.js Starter Project v1.0
+# Processing.js Starter Project v1.0
 
 Documentation : 
 
@@ -8,4 +8,7 @@ Documentation :
 
 3. Processing.js will automatically scan the document on page load for <canvas> elements with data-processing-sources attributes, download the files using XMLHTTPRequest, and feed them to the Processing-to-JavaScript translator. The resulting JavaScript is run using eval.
 
-4. To change canvas size, edit ".processingcanvas" class in "css/style.css"
+4. To change canvas size:
+
+	- edit ".processingcanvas" class in "css/style.css".
+	- edit *.pde file's "size()" function in "void setup()" on line 4.
