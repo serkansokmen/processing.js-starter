@@ -1,3 +1,7 @@
+This project is no longer maintained.
+You can use Yeoman generators instead:
+https://www.npmjs.com/package/generator-processingjs
+
 # Processing.js Starter Project v1.0
 
 Documentation : 
