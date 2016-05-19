@@ -1,8 +1,6 @@
 **This project is no longer maintained.** You may be interested in [p5js](https://p5js.org/).
 
-# Processing.js Starter Project v1.0
-
-Documentation : 
+# Processing.js starter kit
 
 1. Create a separate Processing file or files, naming them whatever you want, as long as they have a *.pde extension.
 2. Include Processing filenames as a space-separated list in a data-processing-sources attribute on the canvas.
